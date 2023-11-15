@@ -1,10 +1,10 @@
 ## How to get API Keys from Auvik
 
 1. Log in to your Auvik account.
-2. Click on your name in the top-right corner and select "API" from the drop-down menu.
-3. Click the "New API Client" button to create a new API Key.
-4. Enter a name for the API Key and click "Create".
-5. Copy the generated API Key and API Secret to a secure location. You will need these later to enable the Auvik integration on your website.
+2. Click on your name in the bottom-left corner to access your profile.
+3. Scroll to the bottom of the page to "API KEY'.
+4. Click "Generate".
+5. Copy the generated API Key to a secure location. You will need these later to enable the Auvik integration on your website.
 6. Note the instance name as it appears in your Auvik portal. For example, if your portal URL is "https://yourcompany.my.auvik.com", then your instance name is "yourcompany".
 
 Note: Be sure to keep your API Keys safe and secure, as they grant access to your Auvik account.
